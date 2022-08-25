@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="WELCOME TO HELLO WORLD APP - JHONA LAJAO-LAJAO"/>
+  <HelloWorld msg="HELLO WORLD!"/>
 </template>
 
 <script>
